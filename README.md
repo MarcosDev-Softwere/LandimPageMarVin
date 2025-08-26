@@ -12,6 +12,17 @@ Carrossel Infinito: Uma animação em CSS que cria um carrossel de imagens com r
 
 Formulário de Contato Funcional: Um formulário de contato simples, mas funcional, que utiliza o serviço Formsubmit.co para enviar mensagens diretamente para o seu e-mail.
 
+Foco em Experiência do Usuário (UX)
+O desenvolvimento deste projeto foi guiado por princípios de UX, garantindo que cada componente não apenas tenha uma boa aparência, mas também seja intuitivo e acessível. Aspectos como:
+
+Responsividade: O layout se ajusta automaticamente para proporcionar a melhor visualização em qualquer dispositivo.
+
+Performance: O código otimizado garante tempos de carregamento rápidos, evitando frustração do usuário.
+
+Navegação Intuitiva: O menu lateral em dispositivos móveis e a navegação no cabeçalho em desktops foram pensados para facilitar o acesso ao conteúdo de forma rápida.
+
+Interatividade: O carrossel com rolagem automática e os efeitos de hover nos cards tornam a interação com a página mais dinâmica e agradável.
+
 Tecnologias Utilizadas
 HTML5: Para a estrutura semântica da página.
 
@@ -32,6 +43,7 @@ cd [NOME_DO_PROJETO]
 
 # Abra o arquivo HTML
 open index.html
+
 
 Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
