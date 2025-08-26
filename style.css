@@ -116,10 +116,11 @@ body {
 
 /* Banner Responsivo */
 .banner {
-    background: url('./LayoutMeuSite.png') no-repeat center center/cover;
+    background: url('./WhatsApp\ Image\ 2025-08-26\ at\ 16.23.24.jpeg') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
+   
     margin-bottom: 40px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -294,5 +295,18 @@ body {
 
     .sidebar {
         display: none; /* Esconde a sidebar em telas maiores */
+    }
+    
+    /* Regra adicionada para telas de desktop */
+    .banner {
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .banner h1 {
+        font-size: 3.5rem;
     }
 }
